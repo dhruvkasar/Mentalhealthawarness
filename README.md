@@ -34,12 +34,6 @@ This website is designed to:
 
 ---
 
-## 📷 Screenshots
-
-(Add screenshots of your website's home page, about page, etc., here.)
-
----
-
 ## 🚀 How to Use
 
 1. Visit the website: [http://mentalhealthawarness.infinityfreeapp.com/?i=1](http://mentalhealthawarness.infinityfreeapp.com/?i=1)
